@@ -6,7 +6,7 @@
 }
 .xyzd{
     font-family: sans-serif;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
    
 
 
@@ -38,7 +38,7 @@ wrapper{
 }
 .header-section{
 
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 
 .header-section .navbar-toggler,
