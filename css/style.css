@@ -6,7 +6,7 @@
 }
 .xyzd{
     font-family: sans-serif;
-    /* background-color: aquamarine; */
+    background-color: aquamarine;
    
 
 
@@ -32,13 +32,15 @@ wrapper{
     padding: 10px;
     background-color: transparent;
     transition: 0.3s ease-in-out;
-    /* background-color: aqua; */
+    /* background-color: red; */
    
 
 }
-.navbar{
-    /* background-color: aqua; */
+.header-section{
+
+    background-color: aqua;
 }
+
 .header-section .navbar-toggler,
 .header-section .navbar-toggler:focus{
     border: none;
